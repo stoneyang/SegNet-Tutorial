@@ -1,0 +1,3 @@
+[submodule "py_img_seg_eval"]
+	path = caffe-segnet
+	url = https://github.com/alexgkendall/caffe-segnet.git
